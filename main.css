@@ -58,3 +58,19 @@ tr:nth-child(odd) {
 	font-size: 20px;
 	padding-top: 50px; 
 }
+
+.AssignmentLinks:link {
+	font-size: 17px;
+}
+
+.AssignmentLinks:hover {
+	font-size: 18px;
+}
+
+.AssignmentLinks:visited {
+	font-color: red;
+}
+
+.AssignmentLinks:active {
+	font-color: green;
+}
